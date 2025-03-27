@@ -44,7 +44,7 @@ pip install flask flask-cors openai PyMuPDF
 Si usas pipenv: 
 
 ```sh
-pipenv install flask flask-cors openai PyMuPDF
+pipenv install
 ```
 
 3. Configurar la API Key de OpenAI en `app.py`:
